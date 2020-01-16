@@ -1,8 +1,9 @@
 <?php
 
-class Fuga {
-
-    public function index() {
+class Fuga
+{
+    public function index()
+    {
         return true;
     }
 }
